@@ -132,17 +132,22 @@ Attrition Rate % = DIVIDE(SUM('HR_Analytics-4'[AttritionCount]), SUM('HR_Analyti
 
 ## ▶️ How to Open This Project
 
-step 1 to Download HR_Analytics_Dashboard.pbix
-step 3 to point it to HR_Analytics.csv
+1. Download `HR_Analytics_Dashboard.pbix`
+2. Open it in **Power BI Desktop** (free from Microsoft)
+3. If the data source shows an error: **Home → Transform data → Data source settings → Change Source**, and point it to `HR_Analytics.csv`
+
+---
+
+
 ---
 
 
 ## 👩‍💻 Author
 
 **Ankita Kumari**
-B.Com (Finance) | Aspiring Data Analyst
-Skills: SQL · Excel · Power BI · Data Cleaning
 
+- 🎓 B.Com (Finance) | Aspiring Data Analyst
+- 🛠️ Skills: SQL · Excel · Power BI · Data Cleaning
 - 🔗 GitHub: [ankita77-ui](https://github.com/ankita77-ui)
 - 📧 ankitatube77@gmail.com
 
