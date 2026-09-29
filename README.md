@@ -2,7 +2,8 @@
 
 An interactive **Power BI dashboard** built from employee-level HR data to understand **who is leaving, when, and why**. It covers attrition by department, salary slab, job role, age group, gender and experience, with slicers for dynamic filtering.
 
-   ![HR Analytics Dashboard](https://raw.githubusercontent.com/ankita77-ui/HR-Analytics-Dashboard-PowerBI/main/dashboard_preview_png.png)
+ ![HR Analytics Dashboard](<img width="635" height="358" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/88837ccc-e879-4591-8e06-802942271fa1" />
+)
 
 ---
 
