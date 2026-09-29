@@ -22,12 +22,10 @@ Employee attrition is costly: recruiting, training and lost productivity add up 
 HR-Analytics-Dashboard-PowerBI/
 │
 ├── README.md
-├── data/
-│   └── HR_Analytics.csv                # Dataset used in the dashboard
-├── dashboard/
-│   └── HR_Analytics_Dashboard.pbix     # Power BI report file
-└── images/
-    └── dashboard_preview.png           # Dashboard screenshot
+├── HR_Analytics.csv                # Dataset used in the dashboard
+├── HR_Analytics_Dashboard.pbix     # Power BI report file
+└── dashboard_preview.png           # Dashboard screenshot
+
 ```
 
 ---
@@ -134,10 +132,8 @@ Attrition Rate % = DIVIDE(SUM('HR_Analytics-4'[AttritionCount]), SUM('HR_Analyti
 
 ## ▶️ How to Open This Project
 
-1. Download `dashboard/HR_Analytics_Dashboard.pbix`
-2. Open it in **Power BI Desktop** (free from Microsoft)
-3. If the data source shows an error: **Home → Transform data → Data source settings → Change Source**, and point it to `data/HR_Analytics.csv`
-
+step 1 to Download HR_Analytics_Dashboard.pbix
+step 3 to point it to HR_Analytics.csv
 ---
 
 
